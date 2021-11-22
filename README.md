@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Bartek Bednarek
+- 👀 I’m interested in Web Development and Sport
+- 🌱 I’m currently learning JavaScript and then React.js
